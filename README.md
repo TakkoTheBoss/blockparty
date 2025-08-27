@@ -2,7 +2,7 @@
 
 # BlockParty
 
-BlockParty is a Hachi-integrated re-imagining of the classic PadBuster tool for performing padding oracle attacks on CBC-encrypted tokens such as cookies, URL parameters, or POST bodies. It is designed to be modern, fast, and simple to extend directly from Hachi projects.
+BlockParty is a [Hachi](https://hdev.run)-integrated re-imagining of the classic PadBuster tool for performing padding oracle attacks on CBC-encrypted tokens such as cookies, URL parameters, or POST bodies. It is designed to be modern, fast, and simple to extend directly from Hachi projects.
 
 ---
 
