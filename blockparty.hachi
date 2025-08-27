@@ -1,0 +1,9 @@
+outerCPP:"
+#include \"padsploit.hpp\"
+namespace blockparty { int run_cli(int, char**); }
+
+#include \"blockparty.cpp\"
+"
+
+innerCPP:"blockparty::run_cli(argc, argv);"
+
